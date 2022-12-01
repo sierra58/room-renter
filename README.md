@@ -1,2 +1,8 @@
 # room-renter
-Room Renter (CSS Libraries) | Tutorial by Zero To Code | [html, css, front-end web development, tutorial]
+
+## Room Renter
+- Tutorial by Zero To Code
+- CSS Libraries 
+
+## Tags
+html, css, front-end web development, tutorial
